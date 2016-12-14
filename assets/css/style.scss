@@ -1,13 +1,13 @@
 
 // ** vendors
-// @import 'vendor';
+// @import 'vendors/vendor';
 
 // ** globals
-@import 'variables';
-@import 'type';
-@import 'mixins';
+@import 'globals/variables';
+@import 'globals/type';
+@import 'globals/mixins';
 
 @import '_template';
 
 // ** partials
-// @import 'page';
+// @import 'partials/page';
