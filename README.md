@@ -1,7 +1,7 @@
 # nico-template
-My base template for basic web projects.
+My template for basic web projects
 
 ##Gulp
-* Compiles Sass
+* Compile Sass files
 * Converts ES6 to ES5
-* Concat/minify JavaScript
+* Concat &amp; minify JavaScript files
